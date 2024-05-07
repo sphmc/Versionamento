@@ -1,0 +1,9 @@
+C:\Users\24153568\Documents\tarde>git clone https://github.com/sphmc/Versionamento
+Cloning into 'Versionamento'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (9/9), done.
+remote: Total 9 (delta 1), reused 8 (delta 0), pack-reused 0
+Receiving objects: 100% (9/9), 89.75 KiB | 44.87 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+
